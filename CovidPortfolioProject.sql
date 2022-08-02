@@ -1,5 +1,5 @@
 --The following are SQL queries used to extract data from the below Covid data Source:
-https://ourworldindata.org/covid-deaths
+--https://ourworldindata.org/covid-deaths
 
 
 

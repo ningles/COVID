@@ -1,4 +1,4 @@
-# COVID
+# COVID Data Analysis
 
 This project explores COVID data from the following source -
 
